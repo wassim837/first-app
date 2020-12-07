@@ -1,0 +1,13 @@
+{
+    "MONGO_URI":"mongodb+srv://wassim:Wassim12.@cluster0.kuc76.mongodb.net/avocat?retryWrites=true&w=majority",
+    "secretOrKey": "my secret",
+    "ACTIVATION_TOKEN_SECRET":"V3`5$K=+*sG:;hn-U_]PS77c]U2]RkMn(My/mrpT**vA9z+Ftsb",
+    "ACCESS_TOKEN_SECRET": "jt>t*j:X=w-/*y-y5]g}pX+6}<@3t6N=+qR()b`cv.5h/hA!7?S",
+    "REFRESH_TOKEN_SECRET":"u3S!J[EcTM-;W~[Tv6Z$d:#v?^fE4wzF;yPswkJn[Y8<Y`t@pJ_9eBSmZ[:",
+   
+
+    "CLOUD_NAME":"dlgud2zzf",
+    "CLOUD_API_KEY":"128328451133869",
+    "CLOUD_API_SECRET":"2uDXPYGFWiBhapiuNVols4k3Qz0"
+
+}
