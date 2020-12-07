@@ -1,5 +1,5 @@
 {
-    "MONGO_URI":"mongodb+srv://wassim:Wassim12.@cluster0.kuc76.mongodb.net/avocat?retryWrites=true&w=majority",
+    "MONGO_URI":"mongodb://localhost:27017/basic-mern-app",
     "secretOrKey": "my secret",
     "ACTIVATION_TOKEN_SECRET":"V3`5$K=+*sG:;hn-U_]PS77c]U2]RkMn(My/mrpT**vA9z+Ftsb",
     "ACCESS_TOKEN_SECRET": "jt>t*j:X=w-/*y-y5]g}pX+6}<@3t6N=+qR()b`cv.5h/hA!7?S",
